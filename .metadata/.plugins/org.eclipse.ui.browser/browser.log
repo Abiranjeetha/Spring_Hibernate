@@ -1,0 +1,75 @@
+
+Jun 04, 2019 09:06:49.06 NEW SESSION
+Jun 04, 2019 09:06:49.06 [18332:4212:0604/090649.034:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jun 04, 2019 09:06:49.06 [18332:4212:0604/090649.034:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 04, 2019 09:06:49.45 [18332:4212:0604/090649.455:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 04, 2019 09:23:19.75 [21544:22136:0604/092319.754:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jun 04, 2019 09:23:19.75 [21544:22136:0604/092319.754:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 04, 2019 09:23:19.91 [21544:22136:0604/092319.910:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 04, 2019 11:28:37.63 [26864:4716:0604/112837.635:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jun 04, 2019 11:28:37.69 [26864:4716:0604/112837.635:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 04, 2019 11:28:37.90 [26864:4716:0604/112837.901:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 04, 2019 14:16:45.61 [26864:29728:0604/141645.617:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 04, 2019 14:25:20.27 [26864:17764:0604/142520.270:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 04, 2019 14:31:13.22 [26864:22740:0604/143113.222:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 04, 2019 14:31:17.71 [26864:23916:0604/143117.717:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 04, 2019 15:01:34.37 [26864:29732:0604/150134.373:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 04, 2019 15:33:28.35 [26864:21544:0604/153328.349:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 04, 2019 15:39:24.52 [26864:25532:0604/153924.520:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 05, 2019 07:19:21.79 [26864:4716:0605/071921.796:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 05, 2019 09:44:58.80 [26864:4716:0605/094458.809:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 06, 2019 07:11:18.78 [26864:4716:0606/071118.785:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 06, 2019 08:48:57.79 [26864:4716:0606/084857.797:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 06, 2019 11:00:50.64 [26112:33372:0606/110050.594:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jun 06, 2019 11:00:50.67 [26112:33372:0606/110050.594:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 06, 2019 11:00:50.82 [26112:33372:0606/110050.829:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 07, 2019 09:04:19.22 [19772:28248:0607/090419.212:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jun 07, 2019 09:04:19.22 [19772:28248:0607/090419.212:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 07, 2019 09:04:19.68 [19772:28248:0607/090419.681:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 07, 2019 09:25:13.26 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.28 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.28 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.28 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.28 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.28 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.28 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.28 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.28 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 09:25:13.29 [19772:28248:0607/092513.261:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Jun 07, 2019 11:24:00.65 [19772:32800:0607/112400.606:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 07, 2019 11:24:35.68 [19772:34372:0607/112435.681:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 07, 2019 14:11:23.57 [19772:32948:0607/141123.536:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+Jun 07, 2019 14:11:23.64 [19772:32948:0607/141123.641:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+Jun 07, 2019 14:44:31.02 [19772:33088:0607/144431.024:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jun 07, 2019 14:53:04.33 [31272:16332:0607/145304.339:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jun 07, 2019 14:53:04.33 [31272:16332:0607/145304.339:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 07, 2019 14:53:04.58 [31272:16332:0607/145304.589:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 07, 2019 23:55:03.81 [31272:16332:0607/235503.808:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 08, 2019 07:22:14.80 [31272:16332:0608/072214.803:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 08, 2019 09:44:59.80 [31272:16332:0608/094459.807:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 09, 2019 07:16:20.78 [31272:16332:0609/071620.781:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 09, 2019 09:30:47.89 [31272:16332:0609/093047.889:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 10, 2019 07:03:16.94 [31272:16332:0610/070316.940:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 10, 2019 08:57:49.81 [31272:16332:0610/085749.812:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 10, 2019 10:01:47.16 [31272:32116:0610/100147.162:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+Jun 10, 2019 10:01:47.50 [31272:32116:0610/100147.505:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -107
+Jun 13, 2019 12:29:31.19 [43884:49856:0613/122931.166:ERROR:configuration_policy_handler_list.cc(90)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 13, 2019 12:29:31.54 [43884:49856:0613/122931.541:ERROR:configuration_policy_handler_list.cc(90)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 13, 2019 16:49:07.45 [43884:43160:0613/164907.270:ERROR:browser_process_sub_thread.cc(209)] Waited 50 ms for network service
+Jun 13, 2019 17:09:48.68 [48004:49436:0613/170948.686:ERROR:configuration_policy_handler_list.cc(90)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 13, 2019 17:09:48.98 [48004:49436:0613/170948.983:ERROR:configuration_policy_handler_list.cc(90)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 13, 2019 17:56:08.31 [48004:42596:0613/175608.315:ERROR:browser_process_sub_thread.cc(209)] Waited 517 ms for network service
+Jun 13, 2019 17:57:11.48 [28760:45664:0613/175711.487:ERROR:configuration_policy_handler_list.cc(90)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 13, 2019 17:57:11.65 [28760:45664:0613/175711.658:ERROR:configuration_policy_handler_list.cc(90)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 13, 2019 18:02:42.89 [28760:45936:0613/180242.892:ERROR:browser_process_sub_thread.cc(209)] Waited 322 ms for network service
+Jun 14, 2019 09:24:15.51 [42624:51572:0614/092415.512:ERROR:configuration_policy_handler_list.cc(90)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 14, 2019 09:24:15.84 [42624:51572:0614/092415.840:ERROR:configuration_policy_handler_list.cc(90)] Unknown policy: PasswordManagerAllowShowPasswords

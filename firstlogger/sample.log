@@ -1,0 +1,6 @@
+0    [main] ERROR com.pack.Main2  - sample error message
+0    [main] FATAL com.pack.Main2  - sample fatal message
+0    [main] WARN  com.pack.Main2  - sample warn message
+0    [main] ERROR com.pack.Main2  - sample error message
+0    [main] FATAL com.pack.Main2  - sample fatal message
+0    [main] WARN  com.pack.Main2  - sample warn message

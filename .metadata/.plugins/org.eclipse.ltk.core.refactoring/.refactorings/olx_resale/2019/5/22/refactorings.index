@@ -1,0 +1,16 @@
+1558950354902	Rename type 'SignupController'
+1558950378789	Rename type 'CustomerDao'
+1558950392456	Rename type 'CustomerDaoImpl'
+1558950405597	Rename type 'user'
+1558950432514	Rename type 'CustomerService'
+1558950444706	Rename type 'CustomerServiceImpl'
+1559043467500	Rename resource 'success.jsp'
+1559044477000	Delete element
+1559044488284	Delete element
+1559119871040	Move folder
+1559124568798	Delete element
+1559191297105	Rename resource 'signup.jsp'
+1559205822556	Delete element
+1559276867814	Delete element
+1559291699378	Delete element
+1559295016006	Rename resource 'item.jsp'

@@ -1,0 +1,39 @@
+package com.pack.dao;
+
+import org.hibernate.Query;
+import org.hibernate.SessionFactory;
+import org.springframework.stereotype.Repository;
+
+import com.pack.form.Address;
+import com.pack.form.User;
+
+@Repository
+public class UserDaoImpl implements UserDao {
+	private SessionFactory sessionFactory;
+	public void setSessionFactory(SessionFactory sessionFactory) {
+		this.sessionFactory = sessionFactory;
+	}
+
+	@Override
+	public void registerUser(User user) {
+		// TODO Auto-generated method stub
+		sessionFactory.getCurrentSession().save(user);
+	}
+
+	@Override
+	public int registerAddress(Address address) {
+		// TODO Auto-generated method stub
+		return (int) sessionFactory.getCurrentSession().save(address);
+	}
+
+	@Override
+	public int verifyUser(String email, String password) {
+		// TODO Auto-generated method stub
+		Query q=sessionFactory.getCurrentSession().createQuery("select userid from User where email=:email and password=:password");
+		q.setParameter("email", email);
+		q.setParameter("password", password);
+		return (int)q.uniqueResult();
+		//return u.getUserid();
+	}
+
+}

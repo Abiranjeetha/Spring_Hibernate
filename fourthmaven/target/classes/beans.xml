@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+<bean id = "ic" class = "com.pack.InjectCollection">
+   
+   <property name="name1">
+   <list>
+   <value>Ram</value>
+   <value>Sam</value>
+   <value>Raj</value>
+   <value>Ram</value>
+   </list>
+   </property>
+   
+   <property name="name2">
+   <set>
+   <value>Ram</value>
+   <value>Sam</value>
+   <value>Raj</value>
+   <value>Ram</value>
+   </set>
+   </property>
+   
+   <property name="name3">
+   <map>
+   <entry key="1" value="Ram"/>
+   <entry key="2" value="Sam"/>
+   <entry key="3" value="Raj"/>
+   <entry key="4" value="Ram"/>
+   </map>
+   </property>
+   
+   <property name="name4">
+   <props>
+   <prop key="one">Ram</prop>
+   <prop key="two">Sam</prop>
+   <prop key="three">Raj</prop>
+   <prop key="four">Ram</prop>
+   </props>
+   </property>
+   </bean>
+</beans>
